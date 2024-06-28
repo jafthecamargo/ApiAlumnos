@@ -1,4 +1,4 @@
-package com.ipn.mx.apialumnos;
+package com.ipn.mx;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
